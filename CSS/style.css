@@ -1,0 +1,318 @@
+/* h1{
+    width: 200px;
+    height: 50px; */
+    /* background-color: aquamarine;
+    border-width: 3px;
+    border-style: dotted;
+    border-color: black; */
+    /* border: 3px dashed black;
+    text-align: center;
+} */
+/* button{
+    color: blue;
+    background-color: green;
+}
+body{
+    background-color:white;
+}
+/* #one{
+    font-family: Arial;
+    #two{
+        font-size: 40 pix65;
+    } */
+/* #one{
+    font-size: 20px;
+    line-height: normal;
+    text-transform: capitalize;
+} */
+/* div{
+    height: 100px;
+    width: 100px; */
+    /* background-color: pink;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black; */
+    /* border:2px solid brown ;
+    background-color: pink;
+    text-align: center;
+    border-radius: 15px;
+    padding: 50px;
+    margin: 25px;
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    background-color: #0f1111;
+    color: white;
+    height: 60px;
+}
+
+a{
+    text-decoration: none;
+    color:green;
+    margin-left: 200px;
+}
+#logo{
+margin-left: 25px;
+font-size: 25px;
+color: #f08804;
+}
+input{
+    margin-left: 200px;
+    ;
+}
+button{
+    background-color: #f08804;
+    color: white;
+}
+
+.contentBox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+
+
+
+
+footer{
+    background-color: #0f1111;
+    color: white;
+    text-align: center;
+}
+ */
+
+/* LEVEL3 */
+/* #box1{
+    height: 100px;
+    width: 200px;
+    background-color: green;
+    font-size: 10px;
+}
+#box2{
+    width: 30%;
+    background-color: yellow;
+    margin-left: 10%;
+    font-size: 2em;
+    width: 5em;
+    height: 1vh;
+} */
+
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    display: inline-block;
+}
+body{
+    background-image: url("hiran\ background\ image.jpg");
+    background-size: cover;
+} */
+
+
+/* practice set 5 */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-image: url(sam-schooler-E9aetBe2w40-unsplash.jpg);
+    background-size: cover;
+} */
+
+/* body{
+    text-align: center;
+
+}
+div{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    border: 2px solid black;
+}
+#container{
+    width: 800px;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+}
+#box1{
+    background-color: black;
+}
+#box2{
+    background-color: blue;
+
+}
+#box3{
+    background-color: red;
+
+}
+#box4{
+    background-color: yellow;
+
+}
+#box5{
+    background-color: orange;
+
+} */
+
+
+/* pracrtice set6 */
+
+/* .navbar{
+background-color:rgb(42, 28, 28);
+display: flex;
+justify-content: space-evenly;
+
+}
+a{
+    text-decoration: none;
+    color: green;
+}
+li{
+    list-style: none;
+    display: inline;
+}
+.outer{
+    height: 400px;
+    width: 400px;
+    background-color:cornflowerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner{
+    height: 100px;
+    width: 100px;
+    background-color:darkorchid;
+} */
+
+
+/* div{
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+}
+
+    
+@media(width : 600px){
+    div{
+        background-color: red;
+    }
+}
+@media(max-width: 600px){
+    div{
+        background-color: green;
+    }
+}
+@media(min-width: 200px)and (max-width: 300px){
+    div{
+        background-color:blue ;
+    }
+} */
+
+/* div{
+    height: 100px;
+    width: 100px;
+    background-color: pink;
+}
+@media(max-width: 300px){
+div{
+    background-color: green;
+}
+}
+@media(min-width: 300px) and(max-width: 300px) {
+    div{
+        background-color:red;
+    }
+    }
+    @media(max-width: 400px) and(min-width: 600px){
+        div{
+            background-color: rgb(1, 15, 1);
+        }
+        }
+        @media(min-width: 600px){
+            div{
+                background-color: red);
+            }
+            }
+                         */
+
+
+/* div{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(7, 5, 75);
+    border: 2px solid rgb(7, 2, 2);
+    position: absolute;
+    top: 100px;
+    left: 100px;
+border-radius: 50%; */
+    /* transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease-in; */
+    /* transition: all 2s ease-in 1s; */
+/* transform: rotate(360deg); */
+/* transform: scale(0.5); */
+/* transition: all 2s ease-in; */
+/* animation-name: colorAnimate;
+animation-duration: 2s;
+animation-timing-function: ease-in;
+animation-delay: 0s;
+animation-iteration-count:infinite;
+animation-direction: alternate; */
+/* animation: colorAnimate 2s ease-in 0s infinite normal;
+} */
+
+
+/* @keyframes colorAnimate {
+    from { background-color: aquamarine;}
+    to   { background-color: red;}
+} */
+/* div:hover{ */
+    /* background-color: red;
+    color: white;
+    font-size: 20px; */
+    /* transform: scaleY(2); */
+    /* transform: translatex(100px); */
+    /* transform: skew(360deg); */
+/* } */
+/* div:active{
+    background-color: pink;
+} */
+
+
+/* peractuice set 8 */
+
+/* body{
+    background-color: rgb(50, 70, 70);
+}
+.loader{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 20px solid white;
+    border-top : 20px solid black;
+    animation: spinAnimate 3s ease-in 0s infinite normal;
+}
+
+@keyframes spinAnimate {
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+} */
+
+
+/* FIANAL POJECT */
+
+
+
